@@ -1,6 +1,6 @@
 """
 Assign Object Attributes to Rebar
-v0.2 - WIP created on 10/24 by Bert Van Overmeir for EDF.
+v0.2 - WIP created on 10/24 by Bert Van Overmeir.
 """
 
 from typing import Any, List, TYPE_CHECKING, cast
