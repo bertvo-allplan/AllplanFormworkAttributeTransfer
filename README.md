@@ -2,7 +2,7 @@
 
 This plugin includes one PythonPart scripts that assists you in performing the following tasks with ALLPLAN:
 
-* Transferring a user-made selection of attributes from 3D formwork objects (3D volumes, architectural objects...) to rebar elements
+* Transferring a user-made selection of attributes from 3D formwork objects (3D volumes, architectural objects...) to rebar elements. (multiselection is possible)
 * Defining the tolerance value that is needed to allow attribute transfer.
 
 > [!TIP]
