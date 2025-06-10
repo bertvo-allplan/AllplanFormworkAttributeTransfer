@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Element>
+    <StringTable>Allplan PythonParts string table</StringTable>
+    <Item>
+        <TextId>1000</TextId>
+        <Text>Start</Text>
+    </Item>
+    <Item>
+        <TextId>1001</TextId>
+        <Text>Formwork and Reinforcement Selection</Text>
+    </Item>
+    <Item>
+        <TextId>1002</TextId>
+        <Text>Select</Text>
+    </Item>
+    <Item>
+        <TextId>1003</TextId>
+        <Text>Attributes</Text>
+    </Item>
+    <Item>
+        <TextId>1004</TextId>
+        <Text>Tolerance</Text>
+    </Item>
+    <Item>
+        <TextId>1005</TextId>
+        <Text>A higher tolerance value results in the reinforcement to be less likely attached to a 3D geometry object.\nChecking based upon polygon points: [Amount of points in rebar shape]/[total points] = [tolerance]\nCircular reinforcement is considered to be a line of two points indicating the radius and centerpoint.</Text>
+    </Item>
+
+    <Item>
+        <TextId>9009</TextId>
+        <Text>Some rebar shapes could not be processed and will be skipped.</Text>
+    </Item>
+    <Item>
+        <TextId>9008</TextId>
+        <Text>Attributes transferred.</Text>
+    </Item>
+    <Item>
+        <TextId>9007</TextId>
+        <Text>There was an error reading the attributes from an object. Please verify in the drawing.</Text>
+    </Item>
+    <Item>
+
+        <TextId>9006</TextId>
+        <Text>One or more elements do not contain all selected attributes. Those elements have been ignored.</Text>
+    </Item>
+    <Item>
+        <TextId>9005</TextId>
+        <Text>Please set the attributes to transfer first.</Text>
+    </Item>
+    <Item>
+        <TextId>9004</TextId>
+        <Text>Empty selection or unsupported elements selected. Please select in the 3D view.</Text>
+    </Item>
+    <Item>
+        <TextId>9003</TextId>
+        <Text>No reinforcement selected. Please select in the 3D view.</Text>
+    </Item>
+    <Item>
+        <TextId>9002</TextId>
+        <Text>No geometry selected. Please select in the 3D view.</Text>
+    </Item>
+    <Item>
+        <TextId>9001</TextId>
+        <Text>Select geometry and reinforcement in the 3D view</Text>
+    </Item>
+    <Item>
+        <TextId>9000</TextId>
+        <Text>Set the attributes to transfer and make a selection in the 3D view - v1.0.0</Text>
+    </Item>
+</Element>

@@ -1,0 +1,29 @@
+plugin:
+  name: Formwork to Rebar Attribute Transfer
+  UUID: fc33264f-5895-431e-a160-b0ff211f6fdf
+  version: 1.0.0
+  developer: allplan-gmbh
+  default-language: en
+  min-allplan-version: 2026
+
+installation:
+  target-location: STD
+
+tools:
+  - id: ftrat
+    pyp: Library\Allplan GmbH\Assign Formwork Attributes to Rebar\assignobjectattributestorebar.pyp
+    display-name:
+      en: Formwork to Rebar Attribute Transfer
+      de: Formwork to Rebar Attribute Transfer
+      fr: Formwork to Rebar Attribute Transfer
+    icons:
+      small: PythonPartsActionbar\Allplan GmbH\attr_24.png
+      large: PythonPartsActionbar\Allplan GmbH\attr_128.png
+
+task-area:
+  display-name:
+    en: Reinforcement Powertools
+    de: Reinforcement Powertools
+    fr: Reinforcement Powertools
+  layout:
+    - ftrat
