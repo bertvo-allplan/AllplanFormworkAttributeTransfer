@@ -7,7 +7,7 @@ This plugin includes one PythonPart scripts that assists you in performing the f
 
 > [!TIP]
 > A higher tolerance value results in the reinforcement to be less likely attached to a 3D geometry object.
-> Overlap checking is based upon polygon points: [Amount of points in rebar shape]/[total points] = [tolerance]
+> Overlap checking is based upon polygon points: [Amount of points in rebar shape]/[total points] = [tolerance].
 > Circular reinforcement is considered to be a line of two points indicating the radius and centerpoint.
 
 
